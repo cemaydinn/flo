@@ -1,0 +1,2 @@
+FLO wants to segment its customers and determine marketing strategies according to these segments. For this purpose, customers' behaviors will be defined and groups will be formed according to the clusters in these behaviors.
+The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo as OmniChannel (both online and offline shoppers) in 2020 - 2021.
